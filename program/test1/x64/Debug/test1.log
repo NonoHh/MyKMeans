@@ -1,0 +1,4 @@
+﻿  main.cpp
+d:\program\programcuda\test1\test1\main.cpp(124): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: 参见“fopen”的声明
+  test1.vcxproj -> D:\Program\ProgramCUDA\test1\x64\Debug\test1.exe
