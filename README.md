@@ -31,12 +31,12 @@ Sharing and dividing the points between the processes.
 
 ##### **Output clusters 1**
 
-## ![result](D:\Courses\result.jpg)
+## ![result](https://github.com/NonoHh/MyKMeans/blob/master/test%20result/result.jpg)
 
 **Input points 2（547,359 points）**
 
-## ![input2](D:\Courses\input2.jpg)
+## ![input2](https://github.com/NonoHh/MyKMeans/blob/master/test%20result/input2.jpg)
 
 ##### **Output clusters 2**
 
-###### ![untitled](D:\Courses\untitled.jpg)
+###### ![result2](https://github.com/NonoHh/MyKMeans/blob/master/test%20result/result2.jpg)
