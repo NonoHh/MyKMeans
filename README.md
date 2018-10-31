@@ -14,7 +14,7 @@ K-Means can be implemented in the following steps:
 5. If current score not enough and max time did not achieved : Back to step 2
 
 ## Parallel Computing Tools
-The program is built in Visual Studio 2017 Professional. If you need to recompile, please complete the required configuration of each tool below.
+The project is built in Visual Studio 2017 Professional. If you need to recompile, please complete the required configuration of each tool below.
 
 **OpenMP:**
 Quality Calculations
