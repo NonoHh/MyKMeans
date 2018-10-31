@@ -27,7 +27,7 @@ Sharing and dividing the points between the processes.
 ## Test Result
 **Input points 1**（100,000 points）
 
-## ![input](D:\Courses\input.jpg)
+## ![input](https://github.com/NonoHh/MyKMeans/blob/master/test%20result/input.jpg)
 
 ##### **Output clusters 1**
 
